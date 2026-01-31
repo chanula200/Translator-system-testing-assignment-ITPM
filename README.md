@@ -26,7 +26,7 @@ Ensure the following are installed on your system:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Harshavidath12/playwright-testing.git
+git clone https://github.com/chanula200/Translator-system-testing-assignment-ITPM.git
 ```
 
 2. Navigate to the project directory
